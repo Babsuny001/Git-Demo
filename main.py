@@ -1,1 +1,1 @@
-print("Willkommen zu Git Demo")
+print("Wilkommen zu Git Demo")
